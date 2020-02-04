@@ -1,0 +1,3014 @@
+municipality =[
+  {
+    "label": "Aamchowk Gaunpalika",
+    "value": "Aamchowk Gaunpalika"
+  },
+  {
+    "label": "Arun Gaunpalika",
+    "value": "Arun Gaunpalika"
+  },
+  {
+    "label": "Bhojpur Nagarpalika",
+    "value": "Bhojpur Nagarpalika"
+  },
+  {
+    "label": "Hatuwagadhi Gaunpalika",
+    "value": "Hatuwagadhi Gaunpalika"
+  },
+  {
+    "label": "Pauwadungma Gaunpalika",
+    "value": "Pauwadungma Gaunpalika"
+  },
+  {
+    "label": "Ramprasad Rai Gaunpalika",
+    "value": "Ramprasad Rai Gaunpalika"
+  },
+  {
+    "label": "Salpasilichho Gaunpalika",
+    "value": "Salpasilichho Gaunpalika"
+  },
+  {
+    "label": "Shadananda Nagarpalika",
+    "value": "Shadananda Nagarpalika"
+  },
+  {
+    "label": "Tyamkemaiyung Gaunpalika",
+    "value": "Tyamkemaiyung Gaunpalika"
+  },
+  {
+    "label": "Chaubise Gaunpalika",
+    "value": "Chaubise Gaunpalika"
+  },
+  {
+    "label": "Chhathar Gaunpalika",
+    "value": "Chhathar Gaunpalika"
+  },
+  {
+    "label": "Dhankuta Nagarpalika",
+    "value": "Dhankuta Nagarpalika"
+  },
+  {
+    "label": "Khalsa Chhintang Shahidbhumi Gaunpalika",
+    "value": "Khalsa Chhintang Shahidbhumi Gaunpalika"
+  },
+  {
+    "label": "Mahalaxmi Nagarpalika",
+    "value": "Mahalaxmi Nagarpalika"
+  },
+  {
+    "label": "Pakhribas Nagarpalika",
+    "value": "Pakhribas Nagarpalika"
+  },
+  {
+    "label": "Sangurigadhi Gaunpalika",
+    "value": "Sangurigadhi Gaunpalika"
+  },
+  {
+    "label": "Chulachuli Gaunpalika",
+    "value": "Chulachuli Gaunpalika"
+  },
+  {
+    "label": "Deumai Nagarpalika",
+    "value": "Deumai Nagarpalika"
+  },
+  {
+    "label": "Fakphokthum Gaunpalika",
+    "value": "Fakphokthum Gaunpalika"
+  },
+  {
+    "label": "Ilam Nagarpalika",
+    "value": "Ilam Nagarpalika"
+  },
+  {
+    "label": "Mai Nagarpalika",
+    "value": "Mai Nagarpalika"
+  },
+  {
+    "label": "Maijogmai Gaunpalika",
+    "value": "Maijogmai Gaunpalika"
+  },
+  {
+    "label": "Mangsebung Gaunpalika",
+    "value": "Mangsebung Gaunpalika"
+  },
+  {
+    "label": "Rong Gaunpalika",
+    "value": "Rong Gaunpalika"
+  },
+  {
+    "label": "Sandakpur Gaunpalika",
+    "value": "Sandakpur Gaunpalika"
+  },
+  {
+    "label": "Suryodaya Nagarpalika",
+    "value": "Suryodaya Nagarpalika"
+  },
+  {
+    "label": "Arjundhara Nagarpalika",
+    "value": "Arjundhara Nagarpalika"
+  },
+  {
+    "label": "Barhadashi Gaunpalika",
+    "value": "Barhadashi Gaunpalika"
+  },
+  {
+    "label": "Bhadrapur Nagarpalika",
+    "value": "Bhadrapur Nagarpalika"
+  },
+  {
+    "label": "Birtamod Nagarpalika",
+    "value": "Birtamod Nagarpalika"
+  },
+  {
+    "label": "Buddhashanti Gaunpalika",
+    "value": "Buddhashanti Gaunpalika"
+  },
+  {
+    "label": "Damak Nagarpalika",
+    "value": "Damak Nagarpalika"
+  },
+  {
+    "label": "Gauradhaha Nagarpalika",
+    "value": "Gauradhaha Nagarpalika"
+  },
+  {
+    "label": "Gauriganj Gaunpalika",
+    "value": "Gauriganj Gaunpalika"
+  },
+  {
+    "label": "Haldibari Gaunpalika",
+    "value": "Haldibari Gaunpalika"
+  },
+  {
+    "label": "Jhapa Gaunpalika",
+    "value": "Jhapa Gaunpalika"
+  },
+  {
+    "label": "Kachankawal Gaunpalika",
+    "value": "Kachankawal Gaunpalika"
+  },
+  {
+    "label": "Kamal Gaunpalika",
+    "value": "Kamal Gaunpalika"
+  },
+  {
+    "label": "Kankai Nagarpalika",
+    "value": "Kankai Nagarpalika"
+  },
+  {
+    "label": "Mechinagar Nagarpalika",
+    "value": "Mechinagar Nagarpalika"
+  },
+  {
+    "label": "Shivasataxi Nagarpalika",
+    "value": "Shivasataxi Nagarpalika"
+  },
+  {
+    "label": "Ainselukhark Gaunpalika",
+    "value": "Ainselukhark Gaunpalika"
+  },
+  {
+    "label": "Barahapokhari Gaunpalika",
+    "value": "Barahapokhari Gaunpalika"
+  },
+  {
+    "label": "Diprung Gaunpalika",
+    "value": "Diprung Gaunpalika"
+  },
+  {
+    "label": "Halesi Tuwachung Nagarpalika",
+    "value": "Halesi Tuwachung Nagarpalika"
+  },
+  {
+    "label": "Jantedhunga Gaunpalika",
+    "value": "Jantedhunga Gaunpalika"
+  },
+  {
+    "label": "Kepilasagadhi Gaunpalika",
+    "value": "Kepilasagadhi Gaunpalika"
+  },
+  {
+    "label": "Khotehang Gaunpalika",
+    "value": "Khotehang Gaunpalika"
+  },
+  {
+    "label": "Lamidada Gaunpalika",
+    "value": "Lamidada Gaunpalika"
+  },
+  {
+    "label": "Rupakot Majhuwagadhi Nagarpalika",
+    "value": "Rupakot Majhuwagadhi Nagarpalika"
+  },
+  {
+    "label": "Sakela Gaunpalika",
+    "value": "Sakela Gaunpalika"
+  },
+  {
+    "label": "Belbari Nagarpalika",
+    "value": "Belbari Nagarpalika"
+  },
+  {
+    "label": "Biratnagar Mahanagarpalika",
+    "value": "Biratnagar Mahanagarpalika"
+  },
+  {
+    "label": "Budhiganga Gaunpalika",
+    "value": "Budhiganga Gaunpalika"
+  },
+  {
+    "label": "Dhanpalthan Gaunpalika",
+    "value": "Dhanpalthan Gaunpalika"
+  },
+  {
+    "label": "Gramthan Gaunpalika",
+    "value": "Gramthan Gaunpalika"
+  },
+  {
+    "label": "Jahada Gaunpalika",
+    "value": "Jahada Gaunpalika"
+  },
+  {
+    "label": "Kanepokhari Gaunpalika",
+    "value": "Kanepokhari Gaunpalika"
+  },
+  {
+    "label": "Katahari Gaunpalika",
+    "value": "Katahari Gaunpalika"
+  },
+  {
+    "label": "Kerabari Gaunpalika",
+    "value": "Kerabari Gaunpalika"
+  },
+  {
+    "label": "Letang Nagarpalika",
+    "value": "Letang Nagarpalika"
+  },
+  {
+    "label": "Miklajung Gaunpalika",
+    "value": "Miklajung Gaunpalika"
+  },
+  {
+    "label": "Patahrishanishchare Nagarpalika",
+    "value": "Patahrishanishchare Nagarpalika"
+  },
+  {
+    "label": "Rangeli Nagarpalika",
+    "value": "Rangeli Nagarpalika"
+  },
+  {
+    "label": "Ratuwamai Nagarpalika",
+    "value": "Ratuwamai Nagarpalika"
+  },
+  {
+    "label": "Sundarharaicha Nagarpalika",
+    "value": "Sundarharaicha Nagarpalika"
+  },
+  {
+    "label": "Sunwarshi Nagarpalika",
+    "value": "Sunwarshi Nagarpalika"
+  },
+  {
+    "label": "Uralabari Nagarpalika",
+    "value": "Uralabari Nagarpalika"
+  },
+  {
+    "label": "Champadevi Gaunpalika",
+    "value": "Champadevi Gaunpalika"
+  },
+  {
+    "label": "Chisankhugadhi Gaunpalika",
+    "value": "Chisankhugadhi Gaunpalika"
+  },
+  {
+    "label": "Khijidemba Gaunpalika",
+    "value": "Khijidemba Gaunpalika"
+  },
+  {
+    "label": "Likhu Gaunpalika",
+    "value": "Likhu Gaunpalika"
+  },
+  {
+    "label": "Manebhanjyang Gaunpalika",
+    "value": "Manebhanjyang Gaunpalika"
+  },
+  {
+    "label": "Molung Gaunpalika",
+    "value": "Molung Gaunpalika"
+  },
+  {
+    "label": "Siddhicharan Nagarpalika",
+    "value": "Siddhicharan Nagarpalika"
+  },
+  {
+    "label": "Sunkoshi Gaunpalika",
+    "value": "Sunkoshi Gaunpalika"
+  },
+  {
+    "label": "Falelung Gaunpalika",
+    "value": "Falelung Gaunpalika"
+  },
+  {
+    "label": "Falgunanda Gaunpalika",
+    "value": "Falgunanda Gaunpalika"
+  },
+  {
+    "label": "Hilihang Gaunpalika",
+    "value": "Hilihang Gaunpalika"
+  },
+  {
+    "label": "Kummayak Gaunpalika",
+    "value": "Kummayak Gaunpalika"
+  },
+  {
+    "label": "Miklajung Gaunpalika",
+    "value": "Miklajung Gaunpalika"
+  },
+  {
+    "label": "Phidim Nagarpalika",
+    "value": "Phidim Nagarpalika"
+  },
+  {
+    "label": "Tumbewa Gaunpalika",
+    "value": "Tumbewa Gaunpalika"
+  },
+  {
+    "label": "Yangwarak Gaunpalika",
+    "value": "Yangwarak Gaunpalika"
+  },
+  {
+    "label": "Bhotkhola Gaunpalika",
+    "value": "Bhotkhola Gaunpalika"
+  },
+  {
+    "label": "Chainpur Nagarpalika",
+    "value": "Chainpur Nagarpalika"
+  },
+  {
+    "label": "Chichila Gaunpalika",
+    "value": "Chichila Gaunpalika"
+  },
+  {
+    "label": "Dharmadevi Nagarpalika",
+    "value": "Dharmadevi Nagarpalika"
+  },
+  {
+    "label": "Khandbari Nagarpalika",
+    "value": "Khandbari Nagarpalika"
+  },
+  {
+    "label": "Madi Nagarpalika",
+    "value": "Madi Nagarpalika"
+  },
+  {
+    "label": "Makalu Gaunpalika",
+    "value": "Makalu Gaunpalika"
+  },
+  {
+    "label": "Panchakhapan Nagarpalika",
+    "value": "Panchakhapan Nagarpalika"
+  },
+  {
+    "label": "Sabhapokhari Gaunpalika",
+    "value": "Sabhapokhari Gaunpalika"
+  },
+  {
+    "label": "Silichong Gaunpalika",
+    "value": "Silichong Gaunpalika"
+  },
+  {
+    "label": "Dudhkaushika Gaunpalika",
+    "value": "Dudhkaushika Gaunpalika"
+  },
+  {
+    "label": "Dudhkoshi Gaunpalika",
+    "value": "Dudhkoshi Gaunpalika"
+  },
+  {
+    "label": "Khumbupasanglahm Gaunpalaika",
+    "value": "Khumbupasanglahm Gaunpalaika"
+  },
+  {
+    "label": "Likhupike Gaunpalika",
+    "value": "Likhupike Gaunpalika"
+  },
+  {
+    "label": "Mahakulung Gaunpalika",
+    "value": "Mahakulung Gaunpalika"
+  },
+  {
+    "label": "Nechasalyan Gaunpalika",
+    "value": "Nechasalyan Gaunpalika"
+  },
+  {
+    "label": "Solududhakunda Nagarpalika",
+    "value": "Solududhakunda Nagarpalika"
+  },
+  {
+    "label": "Sotang Gaunpalika",
+    "value": "Sotang Gaunpalika"
+  },
+  {
+    "label": "Barah Nagarpalika",
+    "value": "Barah Nagarpalika"
+  },
+  {
+    "label": "Barju Gaunpalika",
+    "value": "Barju Gaunpalika"
+  },
+  {
+    "label": "Bhokraha Gaunpalika",
+    "value": "Bhokraha Gaunpalika"
+  },
+  {
+    "label": "Dewanganj Gaunpalika",
+    "value": "Dewanganj Gaunpalika"
+  },
+  {
+    "label": "Dharan Upamahanagarpalika",
+    "value": "Dharan Upamahanagarpalika"
+  },
+  {
+    "label": "Duhabi Nagarpalika",
+    "value": "Duhabi Nagarpalika"
+  },
+  {
+    "label": "Gadhi Gaunpalika",
+    "value": "Gadhi Gaunpalika"
+  },
+  {
+    "label": "Harinagara Gaunpalika",
+    "value": "Harinagara Gaunpalika"
+  },
+  {
+    "label": "Inaruwa Nagarpalika",
+    "value": "Inaruwa Nagarpalika"
+  },
+  {
+    "label": "Ithari Upamahanagarpalika",
+    "value": "Ithari Upamahanagarpalika"
+  },
+  {
+    "label": "Koshi Gaunpalika",
+    "value": "Koshi Gaunpalika"
+  },
+  {
+    "label": "Ramdhuni Nagarpalika",
+    "value": "Ramdhuni Nagarpalika"
+  },
+  {
+    "label": "Aathrai Tribeni Gaunpalika",
+    "value": "Aathrai Tribeni Gaunpalika"
+  },
+  {
+    "label": "Maiwakhola Gaunpalika",
+    "value": "Maiwakhola Gaunpalika"
+  },
+  {
+    "label": "Meringden Gaunpalika",
+    "value": "Meringden Gaunpalika"
+  },
+  {
+    "label": "Mikwakhola Gaunpalika",
+    "value": "Mikwakhola Gaunpalika"
+  },
+  {
+    "label": "Phaktanglung Gaunpalika",
+    "value": "Phaktanglung Gaunpalika"
+  },
+  {
+    "label": "Phungling Nagarpalika",
+    "value": "Phungling Nagarpalika"
+  },
+  {
+    "label": "Sidingba Gaunpalika",
+    "value": "Sidingba Gaunpalika"
+  },
+  {
+    "label": "Sirijangha Gaunpalika",
+    "value": "Sirijangha Gaunpalika"
+  },
+  {
+    "label": "Yangwarak Gaunpalika",
+    "value": "Yangwarak Gaunpalika"
+  },
+  {
+    "label": "Aathrai Gaunpalika",
+    "value": "Aathrai Gaunpalika"
+  },
+  {
+    "label": "Chhathar Gaunpalika",
+    "value": "Chhathar Gaunpalika"
+  },
+  {
+    "label": "Laligurans Nagarpalika",
+    "value": "Laligurans Nagarpalika"
+  },
+  {
+    "label": "Menchayam Gaunpalika",
+    "value": "Menchayam Gaunpalika"
+  },
+  {
+    "label": "Myanglung Nagarpalika",
+    "value": "Myanglung Nagarpalika"
+  },
+  {
+    "label": "Phedap Gaunpalika",
+    "value": "Phedap Gaunpalika"
+  },
+  {
+    "label": "Belaka Nagarpalika",
+    "value": "Belaka Nagarpalika"
+  },
+  {
+    "label": "Chaudandigadhi Nagarpalika",
+    "value": "Chaudandigadhi Nagarpalika"
+  },
+  {
+    "label": "Katari Nagarpalaika",
+    "value": "Katari Nagarpalaika"
+  },
+  {
+    "label": "Rautami Gaunpalika",
+    "value": "Rautami Gaunpalika"
+  },
+  {
+    "label": "Sunkoshi Gaunpalika",
+    "value": "Sunkoshi Gaunpalika"
+  },
+  {
+    "label": "Tapli Gaunpalaika",
+    "value": "Tapli Gaunpalaika"
+  },
+  {
+    "label": "Triyuga Nagarpalika",
+    "value": "Triyuga Nagarpalika"
+  },
+  {
+    "label": "Udayapurgadhi Gaunpalika",
+    "value": "Udayapurgadhi Gaunpalika"
+  },
+  {
+    "label": "Adarsh Kotwal Gaunpalika",
+    "value": "Adarsh Kotwal Gaunpalika"
+  },
+  {
+    "label": "Baragadi Gaunpalika",
+    "value": "Baragadi Gaunpalika"
+  },
+  {
+    "label": "Bishrampur Gaunpalika",
+    "value": "Bishrampur Gaunpalika"
+  },
+  {
+    "label": "Devtal Gaunpalika",
+    "value": "Devtal Gaunpalika"
+  },
+  {
+    "label": "Jitpur Simara Upamahanagarpalika",
+    "value": "Jitpur Simara Upamahanagarpalika"
+  },
+  {
+    "label": "Kalaiya Upamahanagarpalika",
+    "value": "Kalaiya Upamahanagarpalika"
+  },
+  {
+    "label": "Karaiyamai Gaunpalika",
+    "value": "Karaiyamai Gaunpalika"
+  },
+  {
+    "label": "Kolhabi Nagarpalika",
+    "value": "Kolhabi Nagarpalika"
+  },
+  {
+    "label": "Mahagadhimai Nagarpalika",
+    "value": "Mahagadhimai Nagarpalika"
+  },
+  {
+    "label": "Nijgadh Nagarpalika",
+    "value": "Nijgadh Nagarpalika"
+  },
+  {
+    "label": "Pacharauta Nagarpalika",
+    "value": "Pacharauta Nagarpalika"
+  },
+  {
+    "label": "Parwanipur Gaunpalika",
+    "value": "Parwanipur Gaunpalika"
+  },
+  {
+    "label": "Pheta Gaunpalika",
+    "value": "Pheta Gaunpalika"
+  },
+  {
+    "label": "Prasauni Gaunpalika",
+    "value": "Prasauni Gaunpalika"
+  },
+  {
+    "label": "Simroungadh Nagarpalika",
+    "value": "Simroungadh Nagarpalika"
+  },
+  {
+    "label": "Subarna Gaunpalika",
+    "value": "Subarna Gaunpalika"
+  },
+  {
+    "label": "Aurahi Gaunpalika",
+    "value": "Aurahi Gaunpalika"
+  },
+  {
+    "label": "Bateswor Gaunpalika",
+    "value": "Bateswor Gaunpalika"
+  },
+  {
+    "label": "Bidehi Nagarpalika",
+    "value": "Bidehi Nagarpalika"
+  },
+  {
+    "label": "Chhireshwornath Nagarpalika",
+    "value": "Chhireshwornath Nagarpalika"
+  },
+  {
+    "label": "Dhanauji Gaunpalika",
+    "value": "Dhanauji Gaunpalika"
+  },
+  {
+    "label": "Dhanusadham Nagarpalika",
+    "value": "Dhanusadham Nagarpalika"
+  },
+  {
+    "label": "Ganeshman Charnath Nagarpalika",
+    "value": "Ganeshman Charnath Nagarpalika"
+  },
+  {
+    "label": "Hansapur Nagarpalika",
+    "value": "Hansapur Nagarpalika"
+  },
+  {
+    "label": "Janaknandini Gaunpalika",
+    "value": "Janaknandini Gaunpalika"
+  },
+  {
+    "label": "Janakpur Upamahanagarpalika",
+    "value": "Janakpur Upamahanagarpalika"
+  },
+  {
+    "label": "Kamala Nagarpalika",
+    "value": "Kamala Nagarpalika"
+  },
+  {
+    "label": "Laxminiya Gaunpalika",
+    "value": "Laxminiya Gaunpalika"
+  },
+  {
+    "label": "Mithila Bihari Gaunpalika",
+    "value": "Mithila Bihari Gaunpalika"
+  },
+  {
+    "label": "Mithila Nagarpalika",
+    "value": "Mithila Nagarpalika"
+  },
+  {
+    "label": "Mukhiyapatti Musaharniya Gaunpalika",
+    "value": "Mukhiyapatti Musaharniya Gaunpalika"
+  },
+  {
+    "label": "Nagarain Nagarpalika",
+    "value": "Nagarain Nagarpalika"
+  },
+  {
+    "label": "Sabaila Nagarpalika",
+    "value": "Sabaila Nagarpalika"
+  },
+  {
+    "label": "Sahidnagar Nagarpalika",
+    "value": "Sahidnagar Nagarpalika"
+  },
+  {
+    "label": "Aurahi Nagarpalika",
+    "value": "Aurahi Nagarpalika"
+  },
+  {
+    "label": "Balwa Nagarpalika",
+    "value": "Balwa Nagarpalika"
+  },
+  {
+    "label": "Bardibas Nagarpalika",
+    "value": "Bardibas Nagarpalika"
+  },
+  {
+    "label": "Bhangaha Nagarpalika",
+    "value": "Bhangaha Nagarpalika"
+  },
+  {
+    "label": "Ekdanra Gaunpalika",
+    "value": "Ekdanra Gaunpalika"
+  },
+  {
+    "label": "Gaushala Nagarpalika",
+    "value": "Gaushala Nagarpalika"
+  },
+  {
+    "label": "Jaleswor Nagarpalika",
+    "value": "Jaleswor Nagarpalika"
+  },
+  {
+    "label": "Loharpatti Nagarpalika",
+    "value": "Loharpatti Nagarpalika"
+  },
+  {
+    "label": "Mahottari Gaunpalika",
+    "value": "Mahottari Gaunpalika"
+  },
+  {
+    "label": "Manra Sisawa Nagarpalika",
+    "value": "Manra Sisawa Nagarpalika"
+  },
+  {
+    "label": "Matihani Nagarpalika",
+    "value": "Matihani Nagarpalika"
+  },
+  {
+    "label": "Pipra Gaunpalika",
+    "value": "Pipra Gaunpalika"
+  },
+  {
+    "label": "Ramgopalpur Nagarpalika",
+    "value": "Ramgopalpur Nagarpalika"
+  },
+  {
+    "label": "Samsi Gaunpalika",
+    "value": "Samsi Gaunpalika"
+  },
+  {
+    "label": "Sonama Gaunpalika",
+    "value": "Sonama Gaunpalika"
+  },
+  {
+    "label": "Bahudarmai Nagarpalika",
+    "value": "Bahudarmai Nagarpalika"
+  },
+  {
+    "label": "Bindabasini Gaunpalika",
+    "value": "Bindabasini Gaunpalika"
+  },
+  {
+    "label": "Birgunj Mahanagarpalika",
+    "value": "Birgunj Mahanagarpalika"
+  },
+  {
+    "label": "Chhipaharmai Gaunpalika",
+    "value": "Chhipaharmai Gaunpalika"
+  },
+  {
+    "label": "Dhobini Gaunpalika",
+    "value": "Dhobini Gaunpalika"
+  },
+  {
+    "label": "Jaganathpur Gaunpalika",
+    "value": "Jaganathpur Gaunpalika"
+  },
+  {
+    "label": "Jira Bhawani Gaunpalika",
+    "value": "Jira Bhawani Gaunpalika"
+  },
+  {
+    "label": "Kalikamai Gaunpalika",
+    "value": "Kalikamai Gaunpalika"
+  },
+  {
+    "label": "Pakahamainpur Gaunpalika",
+    "value": "Pakahamainpur Gaunpalika"
+  },
+  {
+    "label": "Parsagadi Nagarpalika",
+    "value": "Parsagadi Nagarpalika"
+  },
+  {
+    "label": "Paterwasugauli Gaunpalika",
+    "value": "Paterwasugauli Gaunpalika"
+  },
+  {
+    "label": "Pokhariya Nagarpalika",
+    "value": "Pokhariya Nagarpalika"
+  },
+  {
+    "label": "Sakhuwa Prasauni Gaunpalika",
+    "value": "Sakhuwa Prasauni Gaunpalika"
+  },
+  {
+    "label": "Thori Gaunpalika",
+    "value": "Thori Gaunpalika"
+  },
+  {
+    "label": "Baudhimai Nagarpalika",
+    "value": "Baudhimai Nagarpalika"
+  },
+  {
+    "label": "Birndaban Nagarpalika",
+    "value": "Birndaban Nagarpalika"
+  },
+  {
+    "label": "Chandrapur Nagarpalika",
+    "value": "Chandrapur Nagarpalika"
+  },
+  {
+    "label": "Debahi Gonahi Nagarpalika",
+    "value": "Debahi Gonahi Nagarpalika"
+  },
+  {
+    "label": "Durga Bhagawati Gaunpalika",
+    "value": "Durga Bhagawati Gaunpalika"
+  },
+  {
+    "label": "Gadhimai Nagarpalika",
+    "value": "Gadhimai Nagarpalika"
+  },
+  {
+    "label": "Garuda Nagarpalika",
+    "value": "Garuda Nagarpalika"
+  },
+  {
+    "label": "Gaur Nagarpalika",
+    "value": "Gaur Nagarpalika"
+  },
+  {
+    "label": "Gujara Nagarpalika",
+    "value": "Gujara Nagarpalika"
+  },
+  {
+    "label": "Ishanath Nagarpalika",
+    "value": "Ishanath Nagarpalika"
+  },
+  {
+    "label": "Katahariya Nagarpalika",
+    "value": "Katahariya Nagarpalika"
+  },
+  {
+    "label": "Madav Narayan Nagarpalika",
+    "value": "Madav Narayan Nagarpalika"
+  },
+  {
+    "label": "Maulapur Nagarpalika",
+    "value": "Maulapur Nagarpalika"
+  },
+  {
+    "label": "Paroha Nagarpalika",
+    "value": "Paroha Nagarpalika"
+  },
+  {
+    "label": "Phatuwa Bijayapur Nagarpalika",
+    "value": "Phatuwa Bijayapur Nagarpalika"
+  },
+  {
+    "label": "Rajdevi Nagarpalika",
+    "value": "Rajdevi Nagarpalika"
+  },
+  {
+    "label": "Rajpur Nagarpalika",
+    "value": "Rajpur Nagarpalika"
+  },
+  {
+    "label": "Yamunamai Gaunpalika",
+    "value": "Yamunamai Gaunpalika"
+  },
+  {
+    "label": "Agnisair Krishnasavaran Gaunpalika",
+    "value": "Agnisair Krishnasavaran Gaunpalika"
+  },
+  {
+    "label": "Belhi Chapena Gaunpalika",
+    "value": "Belhi Chapena Gaunpalika"
+  },
+  {
+    "label": "Bishnupur Gaunpalika",
+    "value": "Bishnupur Gaunpalika"
+  },
+  {
+    "label": "Bodebarsaien Nagarpalika",
+    "value": "Bodebarsaien Nagarpalika"
+  },
+  {
+    "label": "Chhinnamasta Gaunpalika",
+    "value": "Chhinnamasta Gaunpalika"
+  },
+  {
+    "label": "Dakneshwori Nagarpalika",
+    "value": "Dakneshwori Nagarpalika"
+  },
+  {
+    "label": "Hanumannagar Kankalani Nagarpalika",
+    "value": "Hanumannagar Kankalani Nagarpalika"
+  },
+  {
+    "label": "Kanchanroop Nagarpalika",
+    "value": "Kanchanroop Nagarpalika"
+  },
+  {
+    "label": "Khadak Nagarpalika",
+    "value": "Khadak Nagarpalika"
+  },
+  {
+    "label": "Mahadeva Gaunpalika",
+    "value": "Mahadeva Gaunpalika"
+  },
+  {
+    "label": "Rajbiraj Nagarpalika",
+    "value": "Rajbiraj Nagarpalika"
+  },
+  {
+    "label": "Rupani Gaunpalika",
+    "value": "Rupani Gaunpalika"
+  },
+  {
+    "label": "Saptakoshi Nagarpalika",
+    "value": "Saptakoshi Nagarpalika"
+  },
+  {
+    "label": "Shambhunath Nagarpalika",
+    "value": "Shambhunath Nagarpalika"
+  },
+  {
+    "label": "Surunga Nagarpalika",
+    "value": "Surunga Nagarpalika"
+  },
+  {
+    "label": "Tilatha Koiladi Gaunpalika",
+    "value": "Tilatha Koiladi Gaunpalika"
+  },
+  {
+    "label": "Tirahut Gaunpalika",
+    "value": "Tirahut Gaunpalika"
+  },
+  {
+    "label": "Walan Bihul Gaunpalika",
+    "value": "Walan Bihul Gaunpalika"
+  },
+  {
+    "label": "Bagmati Nagarpalika",
+    "value": "Bagmati Nagarpalika"
+  },
+  {
+    "label": "Balara Nagarpalika",
+    "value": "Balara Nagarpalika"
+  },
+  {
+    "label": "Barahathawa Nagarpalika",
+    "value": "Barahathawa Nagarpalika"
+  },
+  {
+    "label": "Basbariya Gaunpalika",
+    "value": "Basbariya Gaunpalika"
+  },
+  {
+    "label": "Bishnu Gaunpalika",
+    "value": "Bishnu Gaunpalika"
+  },
+  {
+    "label": "Brahmapuri Gaunpalika",
+    "value": "Brahmapuri Gaunpalika"
+  },
+  {
+    "label": "Chakraghatta Gaunpalika",
+    "value": "Chakraghatta Gaunpalika"
+  },
+  {
+    "label": "Chandranagar Gaunpalika",
+    "value": "Chandranagar Gaunpalika"
+  },
+  {
+    "label": "Dhankaul Gaunpalika",
+    "value": "Dhankaul Gaunpalika"
+  },
+  {
+    "label": "Godaita Nagarpalika",
+    "value": "Godaita Nagarpalika"
+  },
+  {
+    "label": "Haripur Nagarpalika",
+    "value": "Haripur Nagarpalika"
+  },
+  {
+    "label": "Haripurwa Nagarpalika",
+    "value": "Haripurwa Nagarpalika"
+  },
+  {
+    "label": "Hariwan Nagarpalika",
+    "value": "Hariwan Nagarpalika"
+  },
+  {
+    "label": "Ishworpur Nagarpalika",
+    "value": "Ishworpur Nagarpalika"
+  },
+  {
+    "label": "Kabilasi Nagarpalika",
+    "value": "Kabilasi Nagarpalika"
+  },
+  {
+    "label": "Kaudena Gaunpalika",
+    "value": "Kaudena Gaunpalika"
+  },
+  {
+    "label": "Lalbandi Nagarpalika",
+    "value": "Lalbandi Nagarpalika"
+  },
+  {
+    "label": "Malangawa Nagarpalika",
+    "value": "Malangawa Nagarpalika"
+  },
+  {
+    "label": "Parsa Gaunpalika",
+    "value": "Parsa Gaunpalika"
+  },
+  {
+    "label": "Ramnagar Gaunpalika",
+    "value": "Ramnagar Gaunpalika"
+  },
+  {
+    "label": "Arnama Gaunpalika",
+    "value": "Arnama Gaunpalika"
+  },
+  {
+    "label": "Aurahi Gaunpalika",
+    "value": "Aurahi Gaunpalika"
+  },
+  {
+    "label": "Bariyarpatti Gaunpalika",
+    "value": "Bariyarpatti Gaunpalika"
+  },
+  {
+    "label": "Bhagawanpur Gaunpalaika",
+    "value": "Bhagawanpur Gaunpalaika"
+  },
+  {
+    "label": "Bishnupur Gaunpalika",
+    "value": "Bishnupur Gaunpalika"
+  },
+  {
+    "label": "Dhangadhimai Nagarpalika",
+    "value": "Dhangadhimai Nagarpalika"
+  },
+  {
+    "label": "Golbazar Nagarpalika",
+    "value": "Golbazar Nagarpalika"
+  },
+  {
+    "label": "Kalyanpur Nagarpalika",
+    "value": "Kalyanpur Nagarpalika"
+  },
+  {
+    "label": "Karjanha Nagarpalika",
+    "value": "Karjanha Nagarpalika"
+  },
+  {
+    "label": "Lahan Nagarpalika",
+    "value": "Lahan Nagarpalika"
+  },
+  {
+    "label": "Laxmipur patari Gaunpalika",
+    "value": "Laxmipur patari Gaunpalika"
+  },
+  {
+    "label": "Mirchaiya Nagarpalika",
+    "value": "Mirchaiya Nagarpalika"
+  },
+  {
+    "label": "Naraha Gaunpalika",
+    "value": "Naraha Gaunpalika"
+  },
+  {
+    "label": "Navarajpur Gaunpalika",
+    "value": "Navarajpur Gaunpalika"
+  },
+  {
+    "label": "Sakhuwanankarkatti Gaunpalika",
+    "value": "Sakhuwanankarkatti Gaunpalika"
+  },
+  {
+    "label": "Siraha Nagarpalika",
+    "value": "Siraha Nagarpalika"
+  },
+  {
+    "label": "Sukhipur Nagarpalika",
+    "value": "Sukhipur Nagarpalika"
+  },
+  {
+    "label": "Bhaktapur Nagarpalika",
+    "value": "Bhaktapur Nagarpalika"
+  },
+  {
+    "label": "Chagunarayan Nagarpalika",
+    "value": "Chagunarayan Nagarpalika"
+  },
+  {
+    "label": "Madhapur Thimi Nagarpalika",
+    "value": "Madhapur Thimi Nagarpalika"
+  },
+  {
+    "label": "Suryabinayak Nagarpalika",
+    "value": "Suryabinayak Nagarpalika"
+  },
+  {
+    "label": "Bhratpur Mahanagarpalika",
+    "value": "Bhratpur Mahanagarpalika"
+  },
+  {
+    "label": "Ichchhyakamana Gaunpalika",
+    "value": "Ichchhyakamana Gaunpalika"
+  },
+  {
+    "label": "Kalika Nagarpalika",
+    "value": "Kalika Nagarpalika"
+  },
+  {
+    "label": "Khairahani Nagarpalika",
+    "value": "Khairahani Nagarpalika"
+  },
+  {
+    "label": "Madi Nagarpalika",
+    "value": "Madi Nagarpalika"
+  },
+  {
+    "label": "Rapti Nagarpalika",
+    "value": "Rapti Nagarpalika"
+  },
+  {
+    "label": "Ratnangar Nagarpalika",
+    "value": "Ratnangar Nagarpalika"
+  },
+  {
+    "label": "Benighat Rorang Gaunpalika",
+    "value": "Benighat Rorang Gaunpalika"
+  },
+  {
+    "label": "Dhunibesi Nagarpalika",
+    "value": "Dhunibesi Nagarpalika"
+  },
+  {
+    "label": "Gajuri Gaunpalika",
+    "value": "Gajuri Gaunpalika"
+  },
+  {
+    "label": "Galchi Gaunpalika",
+    "value": "Galchi Gaunpalika"
+  },
+  {
+    "label": "Gangjamuna Gaunpalika",
+    "value": "Gangjamuna Gaunpalika"
+  },
+  {
+    "label": "Jwalamukhi Gaunpalika",
+    "value": "Jwalamukhi Gaunpalika"
+  },
+  {
+    "label": "Khaniyabash Gaunpalika",
+    "value": "Khaniyabash Gaunpalika"
+  },
+  {
+    "label": "Netrawati Gaunpalika",
+    "value": "Netrawati Gaunpalika"
+  },
+  {
+    "label": "Nilkantha Nagarpalika",
+    "value": "Nilkantha Nagarpalika"
+  },
+  {
+    "label": "Rubi Valley Gaunpalika",
+    "value": "Rubi Valley Gaunpalika"
+  },
+  {
+    "label": "Siddhalek Gaunpalika",
+    "value": "Siddhalek Gaunpalika"
+  },
+  {
+    "label": "Thakre Gaunpalika",
+    "value": "Thakre Gaunpalika"
+  },
+  {
+    "label": "Tripurasundari Gaunpalika",
+    "value": "Tripurasundari Gaunpalika"
+  },
+  {
+    "label": "Baiteshwor Gaunpalika",
+    "value": "Baiteshwor Gaunpalika"
+  },
+  {
+    "label": "Bhimeshwor Nagarpalika",
+    "value": "Bhimeshwor Nagarpalika"
+  },
+  {
+    "label": "Bigu Gaunpalika",
+    "value": "Bigu Gaunpalika"
+  },
+  {
+    "label": "Gaurishankar Gaunpalika",
+    "value": "Gaurishankar Gaunpalika"
+  },
+  {
+    "label": "Jiri Nagarpalika",
+    "value": "Jiri Nagarpalika"
+  },
+  {
+    "label": "Kalinchok Gaunpalika",
+    "value": "Kalinchok Gaunpalika"
+  },
+  {
+    "label": "Melung Gaunpalika",
+    "value": "Melung Gaunpalika"
+  },
+  {
+    "label": "Sailung Gaunpalika",
+    "value": "Sailung Gaunpalika"
+  },
+  {
+    "label": "Tamakoshi Gaunpalika",
+    "value": "Tamakoshi Gaunpalika"
+  },
+  {
+    "label": "Budhanilkantha Nagarpalika",
+    "value": "Budhanilkantha Nagarpalika"
+  },
+  {
+    "label": "Chandragiri Nagarpalika",
+    "value": "Chandragiri Nagarpalika"
+  },
+  {
+    "label": "Dakshinkali Nagarpalika",
+    "value": "Dakshinkali Nagarpalika"
+  },
+  {
+    "label": "Gokarneshwor Nagarpalika",
+    "value": "Gokarneshwor Nagarpalika"
+  },
+  {
+    "label": "Kageshwori Manahara Nagarpalika",
+    "value": "Kageshwori Manahara Nagarpalika"
+  },
+  {
+    "label": "Kathmandu Mahanagarpalika",
+    "value": "Kathmandu Mahanagarpalika"
+  },
+  {
+    "label": "Kirtipur Nagarpalika",
+    "value": "Kirtipur Nagarpalika"
+  },
+  {
+    "label": "Nagarjun Nagarpalika",
+    "value": "Nagarjun Nagarpalika"
+  },
+  {
+    "label": "Shankharapur Nagarpalika",
+    "value": "Shankharapur Nagarpalika"
+  },
+  {
+    "label": "Tarkeshwor Nagarpalika",
+    "value": "Tarkeshwor Nagarpalika"
+  },
+  {
+    "label": "Tokha Nagarpalika",
+    "value": "Tokha Nagarpalika"
+  },
+  {
+    "label": "Banepa Nagarpalika",
+    "value": "Banepa Nagarpalika"
+  },
+  {
+    "label": "Bethanchowk Gaunpalika",
+    "value": "Bethanchowk Gaunpalika"
+  },
+  {
+    "label": "Bhumlu Gaunpalika",
+    "value": "Bhumlu Gaunpalika"
+  },
+  {
+    "label": "Chaurideurali Gaunpalika",
+    "value": "Chaurideurali Gaunpalika"
+  },
+  {
+    "label": "Dhulikhel Nagarpalika",
+    "value": "Dhulikhel Nagarpalika"
+  },
+  {
+    "label": "Khanikhola Gaunpalika",
+    "value": "Khanikhola Gaunpalika"
+  },
+  {
+    "label": "Mahabharat Gaunpalika",
+    "value": "Mahabharat Gaunpalika"
+  },
+  {
+    "label": "Mandandeupur Nagarpalika",
+    "value": "Mandandeupur Nagarpalika"
+  },
+  {
+    "label": "Namobuddha Nagarpalika",
+    "value": "Namobuddha Nagarpalika"
+  },
+  {
+    "label": "Panauti Nagarpalika",
+    "value": "Panauti Nagarpalika"
+  },
+  {
+    "label": "Panchkhal Nagarpalika",
+    "value": "Panchkhal Nagarpalika"
+  },
+  {
+    "label": "Roshi Gaunpalika",
+    "value": "Roshi Gaunpalika"
+  },
+  {
+    "label": "Temal Gaunpalika",
+    "value": "Temal Gaunpalika"
+  },
+  {
+    "label": "Bagmati Gaunpalika",
+    "value": "Bagmati Gaunpalika"
+  },
+  {
+    "label": "Godawari Nagarpalika",
+    "value": "Godawari Nagarpalika"
+  },
+  {
+    "label": "Konjyosom Gaunpalika",
+    "value": "Konjyosom Gaunpalika"
+  },
+  {
+    "label": "Lalitpur Mahanagarpalika",
+    "value": "Lalitpur Mahanagarpalika"
+  },
+  {
+    "label": "Mahalaxmi Nagarpalika",
+    "value": "Mahalaxmi Nagarpalika"
+  },
+  {
+    "label": "Mahankal Gaunpalika",
+    "value": "Mahankal Gaunpalika"
+  },
+  {
+    "label": "Bagmati Gaunpalika",
+    "value": "Bagmati Gaunpalika"
+  },
+  {
+    "label": "Bakaiya Gaunpalika",
+    "value": "Bakaiya Gaunpalika"
+  },
+  {
+    "label": "Bhimphedi Gaunpalika",
+    "value": "Bhimphedi Gaunpalika"
+  },
+  {
+    "label": "Hetauda Upamahanagarpalika",
+    "value": "Hetauda Upamahanagarpalika"
+  },
+  {
+    "label": "Indrasarowar Gaunpalika",
+    "value": "Indrasarowar Gaunpalika"
+  },
+  {
+    "label": "Kailash Gaunpalika",
+    "value": "Kailash Gaunpalika"
+  },
+  {
+    "label": "Makawanpurgadhi Gaunpalika",
+    "value": "Makawanpurgadhi Gaunpalika"
+  },
+  {
+    "label": "Manahari Gaunpalika",
+    "value": "Manahari Gaunpalika"
+  },
+  {
+    "label": "Raksirang Gaunpalika",
+    "value": "Raksirang Gaunpalika"
+  },
+  {
+    "label": "Thaha Nagarpalika",
+    "value": "Thaha Nagarpalika"
+  },
+  {
+    "label": "Belkotgadhi Nagarpalika",
+    "value": "Belkotgadhi Nagarpalika"
+  },
+  {
+    "label": "Bidur Nagarpalika",
+    "value": "Bidur Nagarpalika"
+  },
+  {
+    "label": "Dupcheshwar Gaunpalika",
+    "value": "Dupcheshwar Gaunpalika"
+  },
+  {
+    "label": "Kakani Gaunpalika",
+    "value": "Kakani Gaunpalika"
+  },
+  {
+    "label": "Kispang Gaunpalika",
+    "value": "Kispang Gaunpalika"
+  },
+  {
+    "label": "Likhu Gaunpalika",
+    "value": "Likhu Gaunpalika"
+  },
+  {
+    "label": "Meghang Gaunpalika",
+    "value": "Meghang Gaunpalika"
+  },
+  {
+    "label": "Panchakanya Gaunpalika",
+    "value": "Panchakanya Gaunpalika"
+  },
+  {
+    "label": "Shivapuri Gaunpalika",
+    "value": "Shivapuri Gaunpalika"
+  },
+  {
+    "label": "Suryagadhi Gaunpalika",
+    "value": "Suryagadhi Gaunpalika"
+  },
+  {
+    "label": "Tadi Gaunpalika",
+    "value": "Tadi Gaunpalika"
+  },
+  {
+    "label": "Tarkeshwar Gaunpalika",
+    "value": "Tarkeshwar Gaunpalika"
+  },
+  {
+    "label": "Doramba Gaunpalika",
+    "value": "Doramba Gaunpalika"
+  },
+  {
+    "label": "Gokulganga Gaunpalika",
+    "value": "Gokulganga Gaunpalika"
+  },
+  {
+    "label": "Khadadevi Gaunpalika",
+    "value": "Khadadevi Gaunpalika"
+  },
+  {
+    "label": "Likhu Gaunpalika",
+    "value": "Likhu Gaunpalika"
+  },
+  {
+    "label": "Manthali Nagarpalika",
+    "value": "Manthali Nagarpalika"
+  },
+  {
+    "label": "Ramechhap Nagarpalika",
+    "value": "Ramechhap Nagarpalika"
+  },
+  {
+    "label": "Sunapati Gaunpalika",
+    "value": "Sunapati Gaunpalika"
+  },
+  {
+    "label": "Umakunda Gaunpalika",
+    "value": "Umakunda Gaunpalika"
+  },
+  {
+    "label": "Gosaikunda Gaunpalika",
+    "value": "Gosaikunda Gaunpalika"
+  },
+  {
+    "label": "Kalika Gaunpalika",
+    "value": "Kalika Gaunpalika"
+  },
+  {
+    "label": "Naukunda Gaunpalika",
+    "value": "Naukunda Gaunpalika"
+  },
+  {
+    "label": "Parbatikunda Gaunpalika",
+    "value": "Parbatikunda Gaunpalika"
+  },
+  {
+    "label": "Uttargaya Gaunpalika",
+    "value": "Uttargaya Gaunpalika"
+  },
+  {
+    "label": "Dudhouli Nagarpalika",
+    "value": "Dudhouli Nagarpalika"
+  },
+  {
+    "label": "Ghanglekh Gaunpalika",
+    "value": "Ghanglekh Gaunpalika"
+  },
+  {
+    "label": "Golanjor Gaunpalika",
+    "value": "Golanjor Gaunpalika"
+  },
+  {
+    "label": "Hariharpurgadhi Gaunpalika",
+    "value": "Hariharpurgadhi Gaunpalika"
+  },
+  {
+    "label": "Kamalamai Nagarpalika",
+    "value": "Kamalamai Nagarpalika"
+  },
+  {
+    "label": "Marin Gaunpalika",
+    "value": "Marin Gaunpalika"
+  },
+  {
+    "label": "Phikkal Gaunpalika",
+    "value": "Phikkal Gaunpalika"
+  },
+  {
+    "label": "Sunkoshi Gaunpalika",
+    "value": "Sunkoshi Gaunpalika"
+  },
+  {
+    "label": "Tinpatan Gaunpalika",
+    "value": "Tinpatan Gaunpalika"
+  },
+  {
+    "label": "Balefi Gaunpalika",
+    "value": "Balefi Gaunpalika"
+  },
+  {
+    "label": "Barhabise Nagarpalika",
+    "value": "Barhabise Nagarpalika"
+  },
+  {
+    "label": "Bhotekoshi Gaunpalika",
+    "value": "Bhotekoshi Gaunpalika"
+  },
+  {
+    "label": "Chautara Sangachokgadhi Nagarpalika",
+    "value": "Chautara Sangachokgadhi Nagarpalika"
+  },
+  {
+    "label": "Helambu Gaunpalika",
+    "value": "Helambu Gaunpalika"
+  },
+  {
+    "label": "Indrawoti Gaunpalika",
+    "value": "Indrawoti Gaunpalika"
+  },
+  {
+    "label": "Jugal Gaunpalika",
+    "value": "Jugal Gaunpalika"
+  },
+  {
+    "label": "Lisankhu Pakhar Gaunpalika",
+    "value": "Lisankhu Pakhar Gaunpalika"
+  },
+  {
+    "label": "Melamchi Nagarpalika",
+    "value": "Melamchi Nagarpalika"
+  },
+  {
+    "label": "Panchpokhari Thangpal Gaunpalika",
+    "value": "Panchpokhari Thangpal Gaunpalika"
+  },
+  {
+    "label": "Sunkoshi Gaunpalika",
+    "value": "Sunkoshi Gaunpalika"
+  },
+  {
+    "label": "Tripurasundari Gaunpalika",
+    "value": "Tripurasundari Gaunpalika"
+  },
+  {
+    "label": "Badigad Gaunpalika",
+    "value": "Badigad Gaunpalika"
+  },
+  {
+    "label": "Baglung Nagarpalika",
+    "value": "Baglung Nagarpalika"
+  },
+  {
+    "label": "Bareng Gaunpalika",
+    "value": "Bareng Gaunpalika"
+  },
+  {
+    "label": "Dhorpatan Nagarpalika",
+    "value": "Dhorpatan Nagarpalika"
+  },
+  {
+    "label": "Galkot Nagarpalika",
+    "value": "Galkot Nagarpalika"
+  },
+  {
+    "label": "Jaimuni Nagarpalika",
+    "value": "Jaimuni Nagarpalika"
+  },
+  {
+    "label": "Kanthekhola Gaupalika",
+    "value": "Kanthekhola Gaupalika"
+  },
+  {
+    "label": "Nisikhola Gaunpalika",
+    "value": "Nisikhola Gaunpalika"
+  },
+  {
+    "label": "Taman Khola Gaunpalika",
+    "value": "Taman Khola Gaunpalika"
+  },
+  {
+    "label": "Tara Khola Gaunpalika",
+    "value": "Tara Khola Gaunpalika"
+  },
+  {
+    "label": "Aarughat Gaunpalika",
+    "value": "Aarughat Gaunpalika"
+  },
+  {
+    "label": "Ajirkot Gaunpalika",
+    "value": "Ajirkot Gaunpalika"
+  },
+  {
+    "label": "Bhimsen Gaunpalika",
+    "value": "Bhimsen Gaunpalika"
+  },
+  {
+    "label": "Chum Nubri Gaunpalika",
+    "value": "Chum Nubri Gaunpalika"
+  },
+  {
+    "label": "Dharche Gaunpalika",
+    "value": "Dharche Gaunpalika"
+  },
+  {
+    "label": "Gandaki Gaunpalika",
+    "value": "Gandaki Gaunpalika"
+  },
+  {
+    "label": "Gorkha Nagarpalika",
+    "value": "Gorkha Nagarpalika"
+  },
+  {
+    "label": "Palungtar Nagarpalika",
+    "value": "Palungtar Nagarpalika"
+  },
+  {
+    "label": "Sahid Lakhan Gaunpalika",
+    "value": "Sahid Lakhan Gaunpalika"
+  },
+  {
+    "label": "Siranchok Gaunpalika",
+    "value": "Siranchok Gaunpalika"
+  },
+  {
+    "label": "Sulikot Gaunpalika",
+    "value": "Sulikot Gaunpalika"
+  },
+  {
+    "label": "Annapurna Gaunpalika",
+    "value": "Annapurna Gaunpalika"
+  },
+  {
+    "label": "Machhapuchchhre Gaunpalika",
+    "value": "Machhapuchchhre Gaunpalika"
+  },
+  {
+    "label": "Madi Gaunpalika",
+    "value": "Madi Gaunpalika"
+  },
+  {
+    "label": "Pokhara Lekhnath Mahanagrpalika",
+    "value": "Pokhara Lekhnath Mahanagrpalika"
+  },
+  {
+    "label": "Rupa Gaunpalika",
+    "value": "Rupa Gaunpalika"
+  },
+  {
+    "label": "Besishahar Nagarpalika",
+    "value": "Besishahar Nagarpalika"
+  },
+  {
+    "label": "Dordi Gaunpalika",
+    "value": "Dordi Gaunpalika"
+  },
+  {
+    "label": "Dudhpokhari Gaunpalika",
+    "value": "Dudhpokhari Gaunpalika"
+  },
+  {
+    "label": "Kwholasothar Gaunpalika",
+    "value": "Kwholasothar Gaunpalika"
+  },
+  {
+    "label": "MadhyaNepal Nagarpalika",
+    "value": "MadhyaNepal Nagarpalika"
+  },
+  {
+    "label": "Marsyangdi Gaunpalika",
+    "value": "Marsyangdi Gaunpalika"
+  },
+  {
+    "label": "Rainas Nagarpalika",
+    "value": "Rainas Nagarpalika"
+  },
+  {
+    "label": "Sundarbazar Nagarpalika",
+    "value": "Sundarbazar Nagarpalika"
+  },
+  {
+    "label": "Chame Gaunpalika",
+    "value": "Chame Gaunpalika"
+  },
+  {
+    "label": "Narphu Gaunpalika",
+    "value": "Narphu Gaunpalika"
+  },
+  {
+    "label": "Nashong Gaunpalika",
+    "value": "Nashong Gaunpalika"
+  },
+  {
+    "label": "Neshyang Gaunpalika",
+    "value": "Neshyang Gaunpalika"
+  },
+  {
+    "label": "Dalome Gaunpalika",
+    "value": "Dalome Gaunpalika"
+  },
+  {
+    "label": "Gharapjhong Gaunpalika",
+    "value": "Gharapjhong Gaunpalika"
+  },
+  {
+    "label": "Lomanthang Gaunpalika",
+    "value": "Lomanthang Gaunpalika"
+  },
+  {
+    "label": "Muktikshetra Gaunpalika",
+    "value": "Muktikshetra Gaunpalika"
+  },
+  {
+    "label": "Thasang Gaunpalika",
+    "value": "Thasang Gaunpalika"
+  },
+  {
+    "label": "Annapurna Gaunpalika",
+    "value": "Annapurna Gaunpalika"
+  },
+  {
+    "label": "Beni Nagarpalika",
+    "value": "Beni Nagarpalika"
+  },
+  {
+    "label": "Dhaulagiri Gaunpalika",
+    "value": "Dhaulagiri Gaunpalika"
+  },
+  {
+    "label": "Malika Gaunpalika",
+    "value": "Malika Gaunpalika"
+  },
+  {
+    "label": "Mangala Gaunpalika",
+    "value": "Mangala Gaunpalika"
+  },
+  {
+    "label": "Raghuganga Gaunpalika",
+    "value": "Raghuganga Gaunpalika"
+  },
+  {
+    "label": "Binayee Triveni Gaunpalika",
+    "value": "Binayee Triveni Gaunpalika"
+  },
+  {
+    "label": "Bulingtar Gaupalika",
+    "value": "Bulingtar Gaupalika"
+  },
+  {
+    "label": "Bungdikali Gaunpalika",
+    "value": "Bungdikali Gaunpalika"
+  },
+  {
+    "label": "Devchuli Nagarpalika",
+    "value": "Devchuli Nagarpalika"
+  },
+  {
+    "label": "Gaidakot Nagarpalika",
+    "value": "Gaidakot Nagarpalika"
+  },
+  {
+    "label": "Hupsekot Gaunpalika",
+    "value": "Hupsekot Gaunpalika"
+  },
+  {
+    "label": "Kawaswoti Nagarpalika",
+    "value": "Kawaswoti Nagarpalika"
+  },
+  {
+    "label": "Madhyabindu Nagarpalika",
+    "value": "Madhyabindu Nagarpalika"
+  },
+  {
+    "label": "Bihadi Gaunpalika",
+    "value": "Bihadi Gaunpalika"
+  },
+  {
+    "label": "Jaljala Gaunpalika",
+    "value": "Jaljala Gaunpalika"
+  },
+  {
+    "label": "Kushma Nagarpalika",
+    "value": "Kushma Nagarpalika"
+  },
+  {
+    "label": "Mahashila Gaunpalika",
+    "value": "Mahashila Gaunpalika"
+  },
+  {
+    "label": "Modi Gaunpalika",
+    "value": "Modi Gaunpalika"
+  },
+  {
+    "label": "Painyu Gaunpalika",
+    "value": "Painyu Gaunpalika"
+  },
+  {
+    "label": "Phalebas Naparpalika",
+    "value": "Phalebas Naparpalika"
+  },
+  {
+    "label": "Aandhikhola Gaunpalika",
+    "value": "Aandhikhola Gaunpalika"
+  },
+  {
+    "label": "Arjunchaupari Gaunpalika",
+    "value": "Arjunchaupari Gaunpalika"
+  },
+  {
+    "label": "Bhirkot Nagarpalika",
+    "value": "Bhirkot Nagarpalika"
+  },
+  {
+    "label": "Biruwa Gaunpalika",
+    "value": "Biruwa Gaunpalika"
+  },
+  {
+    "label": "Chapakot Nagarpalika",
+    "value": "Chapakot Nagarpalika"
+  },
+  {
+    "label": "Galyang Nagarpalika",
+    "value": "Galyang Nagarpalika"
+  },
+  {
+    "label": "Harinas Gaunpalika",
+    "value": "Harinas Gaunpalika"
+  },
+  {
+    "label": "Kaligandagi Gaunpalika",
+    "value": "Kaligandagi Gaunpalika"
+  },
+  {
+    "label": "Phedikhola Gaunpalika",
+    "value": "Phedikhola Gaunpalika"
+  },
+  {
+    "label": "Putalibazar Nagarpalika",
+    "value": "Putalibazar Nagarpalika"
+  },
+  {
+    "label": "Waling Nagarpalika",
+    "value": "Waling Nagarpalika"
+  },
+  {
+    "label": "Abukhaireni Gaunpalika",
+    "value": "Abukhaireni Gaunpalika"
+  },
+  {
+    "label": "Bandipur Gaunpalika",
+    "value": "Bandipur Gaunpalika"
+  },
+  {
+    "label": "Bhanu Nagarpalika",
+    "value": "Bhanu Nagarpalika"
+  },
+  {
+    "label": "Bhimad Nagarpalika",
+    "value": "Bhimad Nagarpalika"
+  },
+  {
+    "label": "Byas Nagarpalika",
+    "value": "Byas Nagarpalika"
+  },
+  {
+    "label": "Devghat Gaunpalika",
+    "value": "Devghat Gaunpalika"
+  },
+  {
+    "label": "Ghiring Gaunpalika",
+    "value": "Ghiring Gaunpalika"
+  },
+  {
+    "label": "Myagde Gaunpalika",
+    "value": "Myagde Gaunpalika"
+  },
+  {
+    "label": "Rhishing Gaunpalika",
+    "value": "Rhishing Gaunpalika"
+  },
+  {
+    "label": "Shuklagandaki Nagarpalika",
+    "value": "Shuklagandaki Nagarpalika"
+  },
+  {
+    "label": "Bhumekasthan Nagarpalika",
+    "value": "Bhumekasthan Nagarpalika"
+  },
+  {
+    "label": "Chhatradev Gaunpalika",
+    "value": "Chhatradev Gaunpalika"
+  },
+  {
+    "label": "Malarani Gaupalikla",
+    "value": "Malarani Gaupalikla"
+  },
+  {
+    "label": "Panini Gaunpalika",
+    "value": "Panini Gaunpalika"
+  },
+  {
+    "label": "Sandhikharka Nagarpalika",
+    "value": "Sandhikharka Nagarpalika"
+  },
+  {
+    "label": "Sitganga Nagarpalika",
+    "value": "Sitganga Nagarpalika"
+  },
+  {
+    "label": "Baijanath Gaunpalika",
+    "value": "Baijanath Gaunpalika"
+  },
+  {
+    "label": "Duduwa Gaunpalika",
+    "value": "Duduwa Gaunpalika"
+  },
+  {
+    "label": "Janki Gaunpalika",
+    "value": "Janki Gaunpalika"
+  },
+  {
+    "label": "Khajura Gaunpalika",
+    "value": "Khajura Gaunpalika"
+  },
+  {
+    "label": "Kohalpur Nagarpalika",
+    "value": "Kohalpur Nagarpalika"
+  },
+  {
+    "label": "Narainapur Gaunpalika",
+    "value": "Narainapur Gaunpalika"
+  },
+  {
+    "label": "Nepalganj Upamahanagarpalika",
+    "value": "Nepalganj Upamahanagarpalika"
+  },
+  {
+    "label": "Rapti sonari Gaunpalika",
+    "value": "Rapti sonari Gaunpalika"
+  },
+  {
+    "label": "Badhaiyatal Gaunpalika",
+    "value": "Badhaiyatal Gaunpalika"
+  },
+  {
+    "label": "Bansgadhi Nagarpalika",
+    "value": "Bansgadhi Nagarpalika"
+  },
+  {
+    "label": "Barbardiya Nagarpalika",
+    "value": "Barbardiya Nagarpalika"
+  },
+  {
+    "label": "Geruwa Gaunpalika",
+    "value": "Geruwa Gaunpalika"
+  },
+  {
+    "label": "Gulariya Nagarpalika",
+    "value": "Gulariya Nagarpalika"
+  },
+  {
+    "label": "Madhuwan Nagarpalika",
+    "value": "Madhuwan Nagarpalika"
+  },
+  {
+    "label": "Rajapur Nagarpalika",
+    "value": "Rajapur Nagarpalika"
+  },
+  {
+    "label": "Thakurbaba Nagarpalika",
+    "value": "Thakurbaba Nagarpalika"
+  },
+  {
+    "label": "Babai Gaunpalika",
+    "value": "Babai Gaunpalika"
+  },
+  {
+    "label": "Banglachuli Gaunpalika",
+    "value": "Banglachuli Gaunpalika"
+  },
+  {
+    "label": "Dangisharan Gaunpalika",
+    "value": "Dangisharan Gaunpalika"
+  },
+  {
+    "label": "Gadhawa Gaunpalika",
+    "value": "Gadhawa Gaunpalika"
+  },
+  {
+    "label": "Ghorahi Upamahanagarpalika",
+    "value": "Ghorahi Upamahanagarpalika"
+  },
+  {
+    "label": "Lamahi Nagarpalika",
+    "value": "Lamahi Nagarpalika"
+  },
+  {
+    "label": "Rajpur Gaunpalika",
+    "value": "Rajpur Gaunpalika"
+  },
+  {
+    "label": "Rapti Gaunpalika",
+    "value": "Rapti Gaunpalika"
+  },
+  {
+    "label": "Shantinagar Gaunpalika",
+    "value": "Shantinagar Gaunpalika"
+  },
+  {
+    "label": "Tulsipur Upamahanagarpalika",
+    "value": "Tulsipur Upamahanagarpalika"
+  },
+  {
+    "label": "Chandrakot Gaunpalika",
+    "value": "Chandrakot Gaunpalika"
+  },
+  {
+    "label": "Chatrakot Gaunpalika",
+    "value": "Chatrakot Gaunpalika"
+  },
+  {
+    "label": "Dhurkot Gaunpalika",
+    "value": "Dhurkot Gaunpalika"
+  },
+  {
+    "label": "Gulmidurbar Gaunpalika",
+    "value": "Gulmidurbar Gaunpalika"
+  },
+  {
+    "label": "Isma Gaunpalika",
+    "value": "Isma Gaunpalika"
+  },
+  {
+    "label": "Kaligandaki Gaunpalika",
+    "value": "Kaligandaki Gaunpalika"
+  },
+  {
+    "label": "Madane Gaunpalika",
+    "value": "Madane Gaunpalika"
+  },
+  {
+    "label": "Malika Gaunpalika",
+    "value": "Malika Gaunpalika"
+  },
+  {
+    "label": "Musikot Nagarpalika",
+    "value": "Musikot Nagarpalika"
+  },
+  {
+    "label": "Resunga Nagarpalika",
+    "value": "Resunga Nagarpalika"
+  },
+  {
+    "label": "Ruru Gaunpalika",
+    "value": "Ruru Gaunpalika"
+  },
+  {
+    "label": "Satyawatai Gaupalika",
+    "value": "Satyawatai Gaupalika"
+  },
+  {
+    "label": "Banganga Nagarpalika",
+    "value": "Banganga Nagarpalika"
+  },
+  {
+    "label": "Bijayanagar Gaunpalika",
+    "value": "Bijayanagar Gaunpalika"
+  },
+  {
+    "label": "Buddhabhumi Nagarpalika",
+    "value": "Buddhabhumi Nagarpalika"
+  },
+  {
+    "label": "Kapilbastu Nagarpalika",
+    "value": "Kapilbastu Nagarpalika"
+  },
+  {
+    "label": "Krishnanagar Nagarpalika",
+    "value": "Krishnanagar Nagarpalika"
+  },
+  {
+    "label": "Maharajgunj Nagarpalika",
+    "value": "Maharajgunj Nagarpalika"
+  },
+  {
+    "label": "Mayadevi Gaunpalika",
+    "value": "Mayadevi Gaunpalika"
+  },
+  {
+    "label": "Shivaraj Nagarpalika",
+    "value": "Shivaraj Nagarpalika"
+  },
+  {
+    "label": "Suddhodhan Gaunpalika",
+    "value": "Suddhodhan Gaunpalika"
+  },
+  {
+    "label": "Yashodhara Gaunpalika",
+    "value": "Yashodhara Gaunpalika"
+  },
+  {
+    "label": "Bardaghat Nagarpalika",
+    "value": "Bardaghat Nagarpalika"
+  },
+  {
+    "label": "Palhi Nandan Gaunpalika",
+    "value": "Palhi Nandan Gaunpalika"
+  },
+  {
+    "label": "Pratappur Gaunpalika",
+    "value": "Pratappur Gaunpalika"
+  },
+  {
+    "label": "Ramgram Nagarpalika",
+    "value": "Ramgram Nagarpalika"
+  },
+  {
+    "label": "Sarawal Gaunpalika",
+    "value": "Sarawal Gaunpalika"
+  },
+  {
+    "label": "Sunwal Nagarpalika",
+    "value": "Sunwal Nagarpalika"
+  },
+  {
+    "label": "Susta Gaunpalika",
+    "value": "Susta Gaunpalika"
+  },
+  {
+    "label": "Bagnaskali Gaunpalika",
+    "value": "Bagnaskali Gaunpalika"
+  },
+  {
+    "label": "Mathagadhi Gaunpalika",
+    "value": "Mathagadhi Gaunpalika"
+  },
+  {
+    "label": "Nisdi Gaunpalika",
+    "value": "Nisdi Gaunpalika"
+  },
+  {
+    "label": "Purbakhola Gaunpalika",
+    "value": "Purbakhola Gaunpalika"
+  },
+  {
+    "label": "Rainadevi Chhahara Gaunpalika",
+    "value": "Rainadevi Chhahara Gaunpalika"
+  },
+  {
+    "label": "Rambha Gaunpalika",
+    "value": "Rambha Gaunpalika"
+  },
+  {
+    "label": "Rampur Nagarpalika",
+    "value": "Rampur Nagarpalika"
+  },
+  {
+    "label": "Ribdikot Gaunpalika",
+    "value": "Ribdikot Gaunpalika"
+  },
+  {
+    "label": "Tansen Nagarpalika",
+    "value": "Tansen Nagarpalika"
+  },
+  {
+    "label": "Tinau Gaunpalika",
+    "value": "Tinau Gaunpalika"
+  },
+  {
+    "label": "Ayirabati Gaunpalika",
+    "value": "Ayirabati Gaunpalika"
+  },
+  {
+    "label": "Gaumukhi Gaunpalika",
+    "value": "Gaumukhi Gaunpalika"
+  },
+  {
+    "label": "Jhimruk Gaunpalika",
+    "value": "Jhimruk Gaunpalika"
+  },
+  {
+    "label": "Mallarani Gaunpalika",
+    "value": "Mallarani Gaunpalika"
+  },
+  {
+    "label": "Mandavi Gaunpalika",
+    "value": "Mandavi Gaunpalika"
+  },
+  {
+    "label": "Naubahini Gaunpalika",
+    "value": "Naubahini Gaunpalika"
+  },
+  {
+    "label": "Pyuthan Nagarpalika",
+    "value": "Pyuthan Nagarpalika"
+  },
+  {
+    "label": "Sarumarani Gaunpalika",
+    "value": "Sarumarani Gaunpalika"
+  },
+  {
+    "label": "Sworgadwary Nagarpalika",
+    "value": "Sworgadwary Nagarpalika"
+  },
+  {
+    "label": "Duikholi Gaunpalika",
+    "value": "Duikholi Gaunpalika"
+  },
+  {
+    "label": "Lungri Gaunpalika",
+    "value": "Lungri Gaunpalika"
+  },
+  {
+    "label": "Madi Gaunpalika",
+    "value": "Madi Gaunpalika"
+  },
+  {
+    "label": "Rolpa Nagarpalika",
+    "value": "Rolpa Nagarpalika"
+  },
+  {
+    "label": "Runtigadi Gaunpalika",
+    "value": "Runtigadi Gaunpalika"
+  },
+  {
+    "label": "Sukidaha Gaunpalika",
+    "value": "Sukidaha Gaunpalika"
+  },
+  {
+    "label": "Sunchhahari Gaunpalika",
+    "value": "Sunchhahari Gaunpalika"
+  },
+  {
+    "label": "Suwarnabati Gaunpalikla",
+    "value": "Suwarnabati Gaunpalikla"
+  },
+  {
+    "label": "Thawang Gaunpalika",
+    "value": "Thawang Gaunpalika"
+  },
+  {
+    "label": "Tribeni Gaunpalika",
+    "value": "Tribeni Gaunpalika"
+  },
+  {
+    "label": "Bhume Gaunpalika",
+    "value": "Bhume Gaunpalika"
+  },
+  {
+    "label": "Putha Uttarganga Gaupalika",
+    "value": "Putha Uttarganga Gaupalika"
+  },
+  {
+    "label": "Sisne Gaupalika",
+    "value": "Sisne Gaupalika"
+  },
+  {
+    "label": "Butwal Upamahanagarpalika",
+    "value": "Butwal Upamahanagarpalika"
+  },
+  {
+    "label": "Devdaha Nagarpalika",
+    "value": "Devdaha Nagarpalika"
+  },
+  {
+    "label": "Gaidahawa Gaunpalika",
+    "value": "Gaidahawa Gaunpalika"
+  },
+  {
+    "label": "Kanchan Gaunpalika",
+    "value": "Kanchan Gaunpalika"
+  },
+  {
+    "label": "Kotahimai Gaunpalika",
+    "value": "Kotahimai Gaunpalika"
+  },
+  {
+    "label": "Lumbini Sanskritik Nagarpalika",
+    "value": "Lumbini Sanskritik Nagarpalika"
+  },
+  {
+    "label": "Marchawari Gaunpalika",
+    "value": "Marchawari Gaunpalika"
+  },
+  {
+    "label": "Mayadevi Gaunpalika",
+    "value": "Mayadevi Gaunpalika"
+  },
+  {
+    "label": "Omsatiya Gaunpalika",
+    "value": "Omsatiya Gaunpalika"
+  },
+  {
+    "label": "Rohini Gaunpalika",
+    "value": "Rohini Gaunpalika"
+  },
+  {
+    "label": "Sainamaina Nagarpalika",
+    "value": "Sainamaina Nagarpalika"
+  },
+  {
+    "label": "Sammarimai Gaunpalika",
+    "value": "Sammarimai Gaunpalika"
+  },
+  {
+    "label": "Siddharthanagar Nagarpalika",
+    "value": "Siddharthanagar Nagarpalika"
+  },
+  {
+    "label": "Siyari Gaunpalika",
+    "value": "Siyari Gaunpalika"
+  },
+  {
+    "label": "Sudhdhodhan Gaunpalika",
+    "value": "Sudhdhodhan Gaunpalika"
+  },
+  {
+    "label": "Tilottama Nagarpalika",
+    "value": "Tilottama Nagarpalika"
+  },
+  {
+    "label": "Aathabis Nagarpalika",
+    "value": "Aathabis Nagarpalika"
+  },
+  {
+    "label": "Bhagawatimai Gaunpalika",
+    "value": "Bhagawatimai Gaunpalika"
+  },
+  {
+    "label": "Bhairabi Gaunpalika",
+    "value": "Bhairabi Gaunpalika"
+  },
+  {
+    "label": "Chamunda Bindrasaini Nagarpalika",
+    "value": "Chamunda Bindrasaini Nagarpalika"
+  },
+  {
+    "label": "Dullu Nagarpalika",
+    "value": "Dullu Nagarpalika"
+  },
+  {
+    "label": "Dungeshwor Gaunpalika",
+    "value": "Dungeshwor Gaunpalika"
+  },
+  {
+    "label": "Gurans Gaunpalika",
+    "value": "Gurans Gaunpalika"
+  },
+  {
+    "label": "Mahabu Gaunpalika",
+    "value": "Mahabu Gaunpalika"
+  },
+  {
+    "label": "Narayan Nagarpalika",
+    "value": "Narayan Nagarpalika"
+  },
+  {
+    "label": "Naumule Gaunpalika",
+    "value": "Naumule Gaunpalika"
+  },
+  {
+    "label": "Thantikandh Gaunpalika",
+    "value": "Thantikandh Gaunpalika"
+  },
+  {
+    "label": "Chharka Tangsong Gaunpalika",
+    "value": "Chharka Tangsong Gaunpalika"
+  },
+  {
+    "label": "Dolpo Buddha Gaunpalika",
+    "value": "Dolpo Buddha Gaunpalika"
+  },
+  {
+    "label": "Jagadulla Gaunpalika",
+    "value": "Jagadulla Gaunpalika"
+  },
+  {
+    "label": "Kaike Gaunpalika",
+    "value": "Kaike Gaunpalika"
+  },
+  {
+    "label": "Mudkechula Gaunpalika",
+    "value": "Mudkechula Gaunpalika"
+  },
+  {
+    "label": "Shey Phoksundo Gaunpalika",
+    "value": "Shey Phoksundo Gaunpalika"
+  },
+  {
+    "label": "Thuli Bheri Nagarpalika",
+    "value": "Thuli Bheri Nagarpalika"
+  },
+  {
+    "label": "Tripurasundari Nagarpalika",
+    "value": "Tripurasundari Nagarpalika"
+  },
+  {
+    "label": "Adanchuli Gaunpalika",
+    "value": "Adanchuli Gaunpalika"
+  },
+  {
+    "label": "Chankheli Gaunpalika",
+    "value": "Chankheli Gaunpalika"
+  },
+  {
+    "label": "Kharpunath Gaunpalika",
+    "value": "Kharpunath Gaunpalika"
+  },
+  {
+    "label": "Namkha Gaunpalika",
+    "value": "Namkha Gaunpalika"
+  },
+  {
+    "label": "Sarkegad Gaunpalika",
+    "value": "Sarkegad Gaunpalika"
+  },
+  {
+    "label": "Simkot Gaunpalika",
+    "value": "Simkot Gaunpalika"
+  },
+  {
+    "label": "Tanjakot Gaunpalika",
+    "value": "Tanjakot Gaunpalika"
+  },
+  {
+    "label": "Barekot Gaunpalika",
+    "value": "Barekot Gaunpalika"
+  },
+  {
+    "label": "Bheri Nagarpalika",
+    "value": "Bheri Nagarpalika"
+  },
+  {
+    "label": "Chhedagad Nagarpalika",
+    "value": "Chhedagad Nagarpalika"
+  },
+  {
+    "label": "Junichande Gaunpalika",
+    "value": "Junichande Gaunpalika"
+  },
+  {
+    "label": "Kuse Gaunpalika",
+    "value": "Kuse Gaunpalika"
+  },
+  {
+    "label": "Shiwalaya Gaunpalika",
+    "value": "Shiwalaya Gaunpalika"
+  },
+  {
+    "label": "Tribeni Nalagad Nagarpalika",
+    "value": "Tribeni Nalagad Nagarpalika"
+  },
+  {
+    "label": "Chandannath Nagarpalika",
+    "value": "Chandannath Nagarpalika"
+  },
+  {
+    "label": "Guthichaur Gaunpalika",
+    "value": "Guthichaur Gaunpalika"
+  },
+  {
+    "label": "Hima Gaunpalika",
+    "value": "Hima Gaunpalika"
+  },
+  {
+    "label": "Kanakasundari Gaunpalika",
+    "value": "Kanakasundari Gaunpalika"
+  },
+  {
+    "label": "Patrasi Gaunpalika",
+    "value": "Patrasi Gaunpalika"
+  },
+  {
+    "label": "Sinja Gaunpalika",
+    "value": "Sinja Gaunpalika"
+  },
+  {
+    "label": "Tatopani Gaunpalika",
+    "value": "Tatopani Gaunpalika"
+  },
+  {
+    "label": "Tila Gaunpalika",
+    "value": "Tila Gaunpalika"
+  },
+  {
+    "label": "Kalika Gaunpalika",
+    "value": "Kalika Gaunpalika"
+  },
+  {
+    "label": "Khandachakra Nagarpalika",
+    "value": "Khandachakra Nagarpalika"
+  },
+  {
+    "label": "Mahawai Gaunpalika",
+    "value": "Mahawai Gaunpalika"
+  },
+  {
+    "label": "Naraharinath Gaunpalika",
+    "value": "Naraharinath Gaunpalika"
+  },
+  {
+    "label": "Pachaljharana Gaunpalika",
+    "value": "Pachaljharana Gaunpalika"
+  },
+  {
+    "label": "Palata Gaunpalika",
+    "value": "Palata Gaunpalika"
+  },
+  {
+    "label": "Raskot Nagarpalika",
+    "value": "Raskot Nagarpalika"
+  },
+  {
+    "label": "Sanni Tribeni Gaunpalika",
+    "value": "Sanni Tribeni Gaunpalika"
+  },
+  {
+    "label": "Tilagufa Nagarpalika",
+    "value": "Tilagufa Nagarpalika"
+  },
+  {
+    "label": "Chhayanath Rara Nagarpalika",
+    "value": "Chhayanath Rara Nagarpalika"
+  },
+  {
+    "label": "Khatyad Gaunpalika",
+    "value": "Khatyad Gaunpalika"
+  },
+  {
+    "label": "Mugum Karmarong Gaunpalika",
+    "value": "Mugum Karmarong Gaunpalika"
+  },
+  {
+    "label": "Soru Gaunpalika",
+    "value": "Soru Gaunpalika"
+  },
+  {
+    "label": "Aathbiskot Nagarpalika",
+    "value": "Aathbiskot Nagarpalika"
+  },
+  {
+    "label": "Banfikot Gaupalika",
+    "value": "Banfikot Gaupalika"
+  },
+  {
+    "label": "Chaurjahari Nagarpalika",
+    "value": "Chaurjahari Nagarpalika"
+  },
+  {
+    "label": "Musikot Nagarpalika",
+    "value": "Musikot Nagarpalika"
+  },
+  {
+    "label": "Sani Bheri Gaupalika",
+    "value": "Sani Bheri Gaupalika"
+  },
+  {
+    "label": "Tribeni Gaupalika",
+    "value": "Tribeni Gaupalika"
+  },
+  {
+    "label": "Bagchaur Nagarpalika",
+    "value": "Bagchaur Nagarpalika"
+  },
+  {
+    "label": "Bangad kupinde Nagarpalika",
+    "value": "Bangad kupinde Nagarpalika"
+  },
+  {
+    "label": "Chhatreshwori Gaupalika",
+    "value": "Chhatreshwori Gaupalika"
+  },
+  {
+    "label": "Darma Gaunpalika",
+    "value": "Darma Gaunpalika"
+  },
+  {
+    "label": "Dhorchaur Gaunpalika",
+    "value": "Dhorchaur Gaunpalika"
+  },
+  {
+    "label": "Kalimati Gaunpalika",
+    "value": "Kalimati Gaunpalika"
+  },
+  {
+    "label": "Kapurkot Gaupalika",
+    "value": "Kapurkot Gaupalika"
+  },
+  {
+    "label": "Kumakh Malika Gaunpalika",
+    "value": "Kumakh Malika Gaunpalika"
+  },
+  {
+    "label": "Sharada Nagarpalika",
+    "value": "Sharada Nagarpalika"
+  },
+  {
+    "label": "Tribeni Gaunpalika",
+    "value": "Tribeni Gaunpalika"
+  },
+  {
+    "label": "Barahtal Gaunpalika",
+    "value": "Barahtal Gaunpalika"
+  },
+  {
+    "label": "Bheriganga Nagarpalika",
+    "value": "Bheriganga Nagarpalika"
+  },
+  {
+    "label": "Birendranagar Nagarpalika",
+    "value": "Birendranagar Nagarpalika"
+  },
+  {
+    "label": "Chaukune Gaunpalika",
+    "value": "Chaukune Gaunpalika"
+  },
+  {
+    "label": "Chingad Gaupalika",
+    "value": "Chingad Gaupalika"
+  },
+  {
+    "label": "Gurbhakot Nagarpalika",
+    "value": "Gurbhakot Nagarpalika"
+  },
+  {
+    "label": "Lekbesi Nagarpalika",
+    "value": "Lekbesi Nagarpalika"
+  },
+  {
+    "label": "Panchpuri Nagarpalika",
+    "value": "Panchpuri Nagarpalika"
+  },
+  {
+    "label": "Simta Gaunpalika",
+    "value": "Simta Gaunpalika"
+  },
+  {
+    "label": "Bannigadi Jayagadh Gaunpalika",
+    "value": "Bannigadi Jayagadh Gaunpalika"
+  },
+  {
+    "label": "Chaurpati Gaunpalika",
+    "value": "Chaurpati Gaunpalika"
+  },
+  {
+    "label": "Dhakari Gaunpalika",
+    "value": "Dhakari Gaunpalika"
+  },
+  {
+    "label": "Kamalbazar Nagarpalika",
+    "value": "Kamalbazar Nagarpalika"
+  },
+  {
+    "label": "Mangalsen Nagarpalika",
+    "value": "Mangalsen Nagarpalika"
+  },
+  {
+    "label": "Mellekh Gaunpalika",
+    "value": "Mellekh Gaunpalika"
+  },
+  {
+    "label": "Panchadewal Binayak Nagarpalika",
+    "value": "Panchadewal Binayak Nagarpalika"
+  },
+  {
+    "label": "Ramaroshan Gaunpalika",
+    "value": "Ramaroshan Gaunpalika"
+  },
+  {
+    "label": "Sanphebagar Nagarpalika",
+    "value": "Sanphebagar Nagarpalika"
+  },
+  {
+    "label": "Turmakhad Gaunpalika",
+    "value": "Turmakhad Gaunpalika"
+  },
+  {
+    "label": "Dasharathchanda Nagarpalika",
+    "value": "Dasharathchanda Nagarpalika"
+  },
+  {
+    "label": "Dilasaini Gaunpalika",
+    "value": "Dilasaini Gaunpalika"
+  },
+  {
+    "label": "Dogadakedar Gaunpalika",
+    "value": "Dogadakedar Gaunpalika"
+  },
+  {
+    "label": "Melauli Nagarpalika",
+    "value": "Melauli Nagarpalika"
+  },
+  {
+    "label": "Pancheshwar Gaunpalika",
+    "value": "Pancheshwar Gaunpalika"
+  },
+  {
+    "label": "Patan Nagarpalika",
+    "value": "Patan Nagarpalika"
+  },
+  {
+    "label": "Purchaudi Nagarpalika",
+    "value": "Purchaudi Nagarpalika"
+  },
+  {
+    "label": "Shivanath Gaunpalika",
+    "value": "Shivanath Gaunpalika"
+  },
+  {
+    "label": "Sigas Gaunpalika",
+    "value": "Sigas Gaunpalika"
+  },
+  {
+    "label": "Surnaya Gaunpalika",
+    "value": "Surnaya Gaunpalika"
+  },
+  {
+    "label": "Bithadchir Gaunpalika",
+    "value": "Bithadchir Gaunpalika"
+  },
+  {
+    "label": "Bungal Nagarpalika",
+    "value": "Bungal Nagarpalika"
+  },
+  {
+    "label": "Chabispathivera Gaunpalika",
+    "value": "Chabispathivera Gaunpalika"
+  },
+  {
+    "label": "Durgathali Gaunpalika",
+    "value": "Durgathali Gaunpalika"
+  },
+  {
+    "label": "JayaPrithivi Nagarpalika",
+    "value": "JayaPrithivi Nagarpalika"
+  },
+  {
+    "label": "Kanda Gaunpalika",
+    "value": "Kanda Gaunpalika"
+  },
+  {
+    "label": "Kedarseu Gaunpalika",
+    "value": "Kedarseu Gaunpalika"
+  },
+  {
+    "label": "Khaptadchhanna Gaunpalika",
+    "value": "Khaptadchhanna Gaunpalika"
+  },
+  {
+    "label": "Masta Gaunpalika",
+    "value": "Masta Gaunpalika"
+  },
+  {
+    "label": "Surma Gaunpalika",
+    "value": "Surma Gaunpalika"
+  },
+  {
+    "label": "Talkot Gaunpalika",
+    "value": "Talkot Gaunpalika"
+  },
+  {
+    "label": "Thalara Gaunpalika",
+    "value": "Thalara Gaunpalika"
+  },
+  {
+    "label": "Badimalika Nagarpalika",
+    "value": "Badimalika Nagarpalika"
+  },
+  {
+    "label": "Budhiganga Nagarpalika",
+    "value": "Budhiganga Nagarpalika"
+  },
+  {
+    "label": "Budhinanda Nagarpalika",
+    "value": "Budhinanda Nagarpalika"
+  },
+  {
+    "label": "Chhededaha Gaunpalika",
+    "value": "Chhededaha Gaunpalika"
+  },
+  {
+    "label": "Gaumal Gaunpalika",
+    "value": "Gaumal Gaunpalika"
+  },
+  {
+    "label": "Himali Gaunpalika",
+    "value": "Himali Gaunpalika"
+  },
+  {
+    "label": "Pandav Gupha",
+    "value": "Pandav Gupha"
+  },
+  {
+    "label": "Swami Kartik Gaunpalika",
+    "value": "Swami Kartik Gaunpalika"
+  },
+  {
+    "label": "Tribeni Nagarpalika",
+    "value": "Tribeni Nagarpalika"
+  },
+  {
+    "label": "Ajaymeru Gaunpalika",
+    "value": "Ajaymeru Gaunpalika"
+  },
+  {
+    "label": "Alital Gaunpalika",
+    "value": "Alital Gaunpalika"
+  },
+  {
+    "label": "Amargadhi Nagarpalika",
+    "value": "Amargadhi Nagarpalika"
+  },
+  {
+    "label": "Bhageshwar Gaunpalika",
+    "value": "Bhageshwar Gaunpalika"
+  },
+  {
+    "label": "Ganayapdhura Gaunpalika",
+    "value": "Ganayapdhura Gaunpalika"
+  },
+  {
+    "label": "Nawadurga Gaunpalika",
+    "value": "Nawadurga Gaunpalika"
+  },
+  {
+    "label": "Parashuram Nagarpalika",
+    "value": "Parashuram Nagarpalika"
+  },
+  {
+    "label": "Apihimal Gaunpalika",
+    "value": "Apihimal Gaunpalika"
+  },
+  {
+    "label": "Byas Gaunpalika",
+    "value": "Byas Gaunpalika"
+  },
+  {
+    "label": "Dunhu Gaunpalika",
+    "value": "Dunhu Gaunpalika"
+  },
+  {
+    "label": "Lekam Gaunpalika",
+    "value": "Lekam Gaunpalika"
+  },
+  {
+    "label": "Mahakali Nagarpalika",
+    "value": "Mahakali Nagarpalika"
+  },
+  {
+    "label": "Malikarjun Gaunpalika",
+    "value": "Malikarjun Gaunpalika"
+  },
+  {
+    "label": "Marma Gaunpalika",
+    "value": "Marma Gaunpalika"
+  },
+  {
+    "label": "Naugad Gaunpalika",
+    "value": "Naugad Gaunpalika"
+  },
+  {
+    "label": "Shailyashikhar Nagarpalika",
+    "value": "Shailyashikhar Nagarpalika"
+  },
+  {
+    "label": "Adharsha Gaupalika",
+    "value": "Adharsha Gaupalika"
+  },
+  {
+    "label": "Badikedar Gaunpalika",
+    "value": "Badikedar Gaunpalika"
+  },
+  {
+    "label": "Bogtan Gaunpalika",
+    "value": "Bogtan Gaunpalika"
+  },
+  {
+    "label": "Dipayal Silgadi Nagarpalika",
+    "value": "Dipayal Silgadi Nagarpalika"
+  },
+  {
+    "label": "Jorayal Gaunpalika",
+    "value": "Jorayal Gaunpalika"
+  },
+  {
+    "label": "K I Singh Gaunpalika",
+    "value": "K I Singh Gaunpalika"
+  },
+  {
+    "label": "Purbichauki Gaunpalika",
+    "value": "Purbichauki Gaunpalika"
+  },
+  {
+    "label": "Sayal Gaunpalika",
+    "value": "Sayal Gaunpalika"
+  },
+  {
+    "label": "Shikhar Nagarpalika",
+    "value": "Shikhar Nagarpalika"
+  },
+  {
+    "label": "Bardagoriya Gaunpalika",
+    "value": "Bardagoriya Gaunpalika"
+  },
+  {
+    "label": "Bhajani Nagarpalika",
+    "value": "Bhajani Nagarpalika"
+  },
+  {
+    "label": "Chure Gaunpalika",
+    "value": "Chure Gaunpalika"
+  },
+  {
+    "label": "Dhangadhi Upamahanagarpalika",
+    "value": "Dhangadhi Upamahanagarpalika"
+  },
+  {
+    "label": "Gauriganga Nagarpalika",
+    "value": "Gauriganga Nagarpalika"
+  },
+  {
+    "label": "Ghodaghodi Nagarpalika",
+    "value": "Ghodaghodi Nagarpalika"
+  },
+  {
+    "label": "Godawari Nagarpalika",
+    "value": "Godawari Nagarpalika"
+  },
+  {
+    "label": "Janaki Gaunpalika",
+    "value": "Janaki Gaunpalika"
+  },
+  {
+    "label": "Joshipur Gaunpalika",
+    "value": "Joshipur Gaunpalika"
+  },
+  {
+    "label": "Kailari Gaunpalika",
+    "value": "Kailari Gaunpalika"
+  },
+  {
+    "label": "Lamki-Chuha Nagarpalika",
+    "value": "Lamki-Chuha Nagarpalika"
+  },
+  {
+    "label": "Mohanyal Gaunpalika",
+    "value": "Mohanyal Gaunpalika"
+  },
+  {
+    "label": "Tikapur Nagarpalika",
+    "value": "Tikapur Nagarpalika"
+  },
+  {
+    "label": "Bedkot Nagarpalika",
+    "value": "Bedkot Nagarpalika"
+  },
+  {
+    "label": "Belaure Nagarpalika",
+    "value": "Belaure Nagarpalika"
+  },
+  {
+    "label": "Beldandi Gaunpalika",
+    "value": "Beldandi Gaunpalika"
+  },
+  {
+    "label": "Bhimdatta Nagarpalika",
+    "value": "Bhimdatta Nagarpalika"
+  },
+  {
+    "label": "Krishnapur Nagarpalika",
+    "value": "Krishnapur Nagarpalika"
+  },
+  {
+    "label": "Laljhandi Gaunpalika",
+    "value": "Laljhandi Gaunpalika"
+  },
+  {
+    "label": "Mahakali Nagarpalika",
+    "value": "Mahakali Nagarpalika"
+  },
+  {
+    "label": "Punarbas Nagarpalika",
+    "value": "Punarbas Nagarpalika"
+  },
+  {
+    "label": "Suklaphanta Nagarpalika",
+    "value": "Suklaphanta Nagarpalika"
+  }
+]
